@@ -1,0 +1,86 @@
+body {
+  background-color: #541b2a;
+}
+
+
+h1 {
+  margin: 0;
+  padding: 0 0 20px;
+  text-align: center;
+  font-size: 30px;
+  font-family: Arial;
+  color: white;
+}
+
+#boton_a {
+  background-color: #af021b;
+  border-radius: 6px;
+  color: white;
+  height: 230px;
+  text-align: center;
+  font-size: 24px;
+  margin: 40px;
+  margin-left: 70px;
+  margin-right: 50px;
+  transition: 0.3s;
+  width: 230;
+}
+
+#boton_a:hover {
+  background-color: pink;
+  color: black;
+}
+
+#boton_b {
+  background-color: #af021b;
+  border-radius: 6px;
+  color: white;
+  height: 230px;
+  text-align: center;
+  font-size: 24px;
+  margin: 40px;
+  margin-right: 50px;
+  transition: 0.3s;
+  width: 230;
+}
+
+#boton_b:hover {
+  background-color: blue;
+  color: black;
+}
+
+#boton_c {
+  background-color: #af021b;
+  border-radius: 6px;
+  color: white;
+  height: 230px;
+  text-align: center;
+  font-size: 24px;
+  margin: 40px;
+  margin-right: 50px;
+  transition: 0.3s;
+  width: 230;
+}
+
+#boton_c:hover {
+  background-color: orange;
+  color: black;
+}
+
+#boton_d {
+  background-color: #af021b;
+  border-radius: 6px;
+  color: white;
+  height: 230px;
+  text-align: center;
+  font-size: 24px;
+  margin: 40px;
+  margin-right: 0px;
+  transition: 0.3s;
+  width: 230;
+}
+
+#boton_d:hover {
+  background-color: yellow;
+  color: black;
+}
